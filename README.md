@@ -36,5 +36,5 @@ The predictive model trains on `studentPerformance.csv`, which tracks the follow
 
 1. **Clone the Repository:**
 ```bash
-   git clone [https://github.com/YessineRekik-31/MLS_Project.git](https://github.com/YOUR_USERNAME/MLS_Project.git)
+   git clone [https://github.com/YOUR_USERNAME/MLS_Project.git](https://github.com/YessineRekik-31/MLS_Project.git)
    cd MLS_Project
