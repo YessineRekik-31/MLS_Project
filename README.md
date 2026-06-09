@@ -37,3 +37,8 @@ The predictive model trains on `studentPerformance.csv`, which tracks the follow
 1. **Clone the Repository:**
    git clone [https://github.com/YOUR_USERNAME/MLS_Project.git](https://github.com/YessineRekik-31/MLS_Project.git)
    cd MLS_Project
+2. **Install Required Packages:**
+```bash
+pip install pandas scikit-learn gradio
+```
+3. 
